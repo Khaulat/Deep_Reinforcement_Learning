@@ -61,5 +61,4 @@ Depending on what you want to do, [install Unity](https://github.com/Unity-Techn
 2. Fork the repository.
 3. Generate a pull request to contribute your RL projects.
 
-# For a detailed technical understanding of the project, make sure to check out this report - [Training a Double Deep Q-Learning algorithm in a Unity environment](https://khaulat.github.io/Training-a-Double-Deep-Q-Learning-algorithm-in-a-Unity-environment/)
-    
+# For a detailed technical understanding of the project, make sure to check out [this report](https://khaulat.github.io/Deep-Q-Networks(DQN)/).
