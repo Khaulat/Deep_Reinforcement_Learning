@@ -1,2 +1,2 @@
 # Deep_Reinforcement_Learning
-Contains projects using different DRL Algorithms
+Contains projects built using different DRL Algorithms
