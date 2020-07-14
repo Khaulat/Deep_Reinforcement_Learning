@@ -1,2 +1,5 @@
 # Deep_Reinforcement_Learning
-Contains projects built using different DRL Algorithms
+
+This repository currently contains a Reinforcement Learning project using the Double Deep Q-Network algorithm to train an agent within a Unity environment provided by Udacity.
+
+Details about the environment and the code can be found [here](https://github.com/Khaulat/Deep_Reinforcement_Learning/blob/master/Navigation_project/README.md)
