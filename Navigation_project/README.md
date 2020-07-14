@@ -5,7 +5,7 @@
 For this project, a Unity environment provided by Udacity is used to monitor and visualize training. It is an open space layed with bananas of two different colours; blue and yellow.
 The goal of the agent is to navigate through the environment picking as many yellow bananas and ignoring as many blue bananas as possible.
 
- **The agent can perform 4 discrete actions to move; **
+### The agent can perform 4 discrete actions to move; 
 
 - Move forward, 0
 - Move backward, 1
