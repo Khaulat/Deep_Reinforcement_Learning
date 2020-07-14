@@ -5,6 +5,17 @@
 For this project, a Unity environment provided by Udacity is used to monitor and visualize training. It is an open space layed with bananas of two different colours; blue and yellow.
 The goal of the agent is to navigate through the environment picking as many yellow bananas and ignoring as many blue bananas as possible.
 
+**The agent can perform 4 discrete actions to move; **
+
+Move forward, 0
+Move backward, 1
+Turn left, 2
+Turn right, 3
+
+The environment also has a state-space of 37 dimensions which contains the agents velocity and a ray-based representation of objects around it.
+
+
+
 ## The Navigation_project content
 
 In the navigation project folder, there are 4 sub-folders and 3 distinct files;
@@ -44,7 +55,7 @@ Contains the compiled bytecode of the Python source files.
 
 ## Reproducing the project on your computer
 
-Depending on what you want to do, you can follow one of these 3 options:
+Depending on what you want to do, [install Unity](https://github.com/Unity-Technologies/ml-agents/blob/release_3_docs/docs/Installation.md#advanced-local-installation-for-development) and follow one of these 3 options:
 
 1. Clone the repository.
 2. Fork the repository.
