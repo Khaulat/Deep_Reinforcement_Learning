@@ -9,7 +9,7 @@ The goal of the agent is to navigate through the environment picking as many yel
 
 In the navigation project folder, there are 4 sub-folders and 3 distinct files;
 
-### The [Banana_Linuz](https://github.com/Khaulat/Deep_Reinforcement_Learning/tree/master/Navigation_project/Banana_Linux) folder 
+### The [Banana_Linux](https://github.com/Khaulat/Deep_Reinforcement_Learning/tree/master/Navigation_project/Banana_Linux) folder 
 
 Contains the Unity environment for training the agent. Depending on your operating system, you can download this environment from any of these links:
 
