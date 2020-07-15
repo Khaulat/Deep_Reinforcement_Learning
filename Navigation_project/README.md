@@ -2,7 +2,7 @@
 
 ## The Environment
 
-For this project, a Unity environment provided by Udacity is used to monitor and visualize training. It is an open space layed with bananas of two different colours; blue and yellow.
+For this project, a Unity environment provided by Udacity is used to monitor and visualize training an RL agent. It is an open space layed with bananas of two different colours; blue and yellow.
 The goal of the agent is to navigate through the environment picking as many yellow bananas and ignoring as many blue bananas as possible.
 
 ### The agent can perform 4 discrete actions to move; 
@@ -61,4 +61,4 @@ Depending on what you want to do, [install Unity](https://github.com/Unity-Techn
 2. Fork the repository.
 3. Generate a pull request to contribute your RL projects.
 
-# For a detailed technical understanding of the project, make sure to check out [this report](https://khaulat.github.io/Deep-Q-Networks(DQN)/).
+### For a detailed technical understanding of the project, make sure to check out [this report](https://khaulat.github.io/Deep-Q-Networks(DQN)/).
