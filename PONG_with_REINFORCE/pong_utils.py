@@ -49,6 +49,7 @@ def animate_frames(frames):
 
     fanim = animation.FuncAnimation(plt.gcf(), \
         lambda x: patch.set_data(frames[x]), frames = len(frames), interval=30)
+    print (fanim)
     
     display(display_animation(fanim, default_mode='once'))
     
@@ -92,8 +93,6 @@ def play(env, policy, time=2000, preprocess=None, nrand=5):
     env.close()
     
     animate_frames(anim_frames)
-    
-   
     return 
 
 
