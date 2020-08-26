@@ -49,8 +49,6 @@ def animate_frames(frames):
 
     fanim = animation.FuncAnimation(plt.gcf(), \
         lambda x: patch.set_data(frames[x]), frames = len(frames), interval=30)
-    print (fanim)
-    
     display(display_animation(fanim, default_mode='once'))
     
 # play a game and display the animation
