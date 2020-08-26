@@ -1,5 +1,9 @@
 # Deep_Reinforcement_Learning
 
-Contains a Reinforcement Learning project using the Double Deep Q-Network algorithm to train an agent within a Unity environment provided by Udacity.
+Implementation of different Deep Reinforcement Learning algorithms.
 
-Detailed information about the navigation project can be found [here](https://github.com/Khaulat/Deep_Reinforcement_Learning/blob/master/Navigation_project/README.md)
+- **`Deep Q-Networks`** can be found [here](https://github.com/Khaulat/Deep_Reinforcement_Learning/blob/master/Navigation_project)
+- **`REINFORCE`** can be found [here](https://github.com/Khaulat/Deep_Reinforcement_Learning/tree/master/PONG_with_REINFORCE)
+- **`Proximal Policy Optimization`** can be found [here](https://github.com/Khaulat/Deep_Reinforcement_Learning/tree/master/PONG_with_PPO)
+- **`Deep Deterministic Policy Gradients`** can be found [here](https://github.com/Khaulat/Deep_Reinforcement_Learning/tree/master/Continuous_Control)
+
