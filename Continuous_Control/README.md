@@ -68,7 +68,7 @@ To set up your python environment to run the code in this repository, follow the
     activate drlnd
     ```
  
-2. Clone the repository (if you haven't already!), and navigate to the `Navigation_project/python/` folder.  Then, install several dependencies.
+2. Clone the repository (if you haven't already!), and navigate to the `Continuous_Control/python/` folder.  Then, install several dependencies.
 ```bash
 git clone https://github.com/Khaulat/Deep_Reinforcement_Learning.git
 cd Deep_Reinforcement_learning/Continuous_Control/python
@@ -84,5 +84,5 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 5. Before running code in a notebook, change the kernel to match the `drlnd` environment by using the drop-down `Kernel` menu.
 
 
-### For a detailed technical understanding of the project, make sure to check out [this report](https://khaulat.github.io/Deep-Q-Networks(DQN)/).
+### For a detailed technical understanding of the project, make sure to check out [this report](https://khaulat.github.io/Deep-Deterministic-Policy-Gradient/).
 
