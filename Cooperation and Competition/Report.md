@@ -50,7 +50,7 @@ Some new terms were introduced here; the `OU_SIGMA` and `OU_THETA`. These repres
 
 The DDPG agent was able to solve the environment giving the result below. The corresponding model weights are stored in Play_Tennis-checkpoint.ipynb.
 
-<img src="/madresult.png" alt="Results of the agent learning from MADDPG">
+<img src="madresult.png" alt="Results of the agent learning from MADDPG">
 
 
 ## Some Future Improvements
